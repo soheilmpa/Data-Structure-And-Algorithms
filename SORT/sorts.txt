@@ -1,0 +1,14 @@
+Comparison Sorting : 
+    Bubble Sort
+    Selection Sort
+    Insertion Sort
+    Shell Sort
+    Merge Sort
+    Quick Sort
+
+
+Non Comparison Sort : uses the internal character of the values to be sorted
+    Bucket Sort
+    Counting Sort
+    Radix Sort
+    Heap Sort
